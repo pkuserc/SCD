@@ -16,3 +16,5 @@ To mitigate this, we propose Soft Constrained Decoding (SCD), a lightweight, tra
 
 - 📖 Paper: [Language Drift in Multilingual Retrieval-Augmented Generation: Characterization and Decoding-Time Mitigation](https://arxiv.org/pdf/2511.09984)
 
+
+- We open source our the multilingual version of three QA datasets for further research.
