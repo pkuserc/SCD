@@ -22,6 +22,8 @@ This issue becomes especially visible in reasoning-heavy generation, such as cha
 
 To mitigate this, we propose **Soft Constrained Decoding (SCD)**, a lightweight and training-free decoding strategy that softly penalizes non-target-language tokens during generation. SCD is model-agnostic and can be integrated into standard generation pipelines without modifying model architecture or requiring additional training data. Experiments on three multilingual datasets show consistent improvements in language alignment and downstream task performance.
 
+> Related RAG projects from us: [**GRIP** (ACL 2026 Main)](https://github.com/WisdomShell/GRIP) · [**ETC** (AAAI 2026 Oral)](https://github.com/WisdomShell/ETC) · [**SCD** (AAAI 2026 Oral)](https://github.com/WisdomShell/SCD)
+
 ### Key Features
 
 - **Training-free** decoding-time mitigation
